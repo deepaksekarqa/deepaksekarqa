@@ -18,10 +18,8 @@
 I'm a **QA Automation Engineer** transitioning from an analytical background, with hands-on experience building end-to-end test automation frameworks across real-world web applications.
 
 - 🎓 **Certified** in Software Testing — Besant Technologies × NASSCOM FutureSkills Prime
-- 🏢 **Interned** at BDreamz Global Solutions Pvt. Ltd. as QA Automation Intern
 - 🔧 Built **5 automation projects** + **1 full STLC manual testing project** from scratch
-- 🌱 Currently exploring **REST Assured API Testing** and **Allure Reports**
-- 💬 Ask me about **Selenium**, **BDD Cucumber**, **TestNG**, **Page Object Model**, or **Jenkins CI/CD**
+- 💬 Ask me about **Java**, **Selenium**, **BDD Cucumber**, **TestNG**, **Page Object Model**, or **Jenkins CI/CD**
 - 📍 Based in **Chennai, India** — open to remote roles
 
 ---
