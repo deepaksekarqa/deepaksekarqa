@@ -158,6 +158,9 @@ I'm a **QA Automation Engineer** transitioning from an analytical background, wi
   <a href="https://www.linkedin.com/in/deepaksekar7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://deepakqa.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-deepakqa.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
